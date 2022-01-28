@@ -1,6 +1,6 @@
 # Online-XO-Game
 
-<video width="320" height="240" autoplay muted>
+<video width="320" height="240" Autoplay=autoplay>
   <source src="Screenshots/X-O Game.mov" type="video/mov">
 </video>
 -----------------------------------------------------------------------------------------------------------------
